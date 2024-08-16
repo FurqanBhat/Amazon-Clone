@@ -50,6 +50,9 @@
     height: 40px;
 
 }
+.nav-search:hover{
+    border: 2px orange solid;
+}
 .search-select{
     border-start-start-radius: 4px;
     background-color: #f3f3f3;
@@ -69,4 +72,19 @@
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
+}
+span{
+    font-size: 0.65rem;
+
+}
+.nav-second{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-weight: bold;
+    font-size: 0.8rem;
 }
