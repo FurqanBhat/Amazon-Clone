@@ -180,8 +180,22 @@ footer{
 .foot-panel3{
     background-color: #222f3d;
     color: white;
-    border-top: 0.3px solid white;
+    border-top: 0.3px solid grey;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.foot-panel4{
+    background-color: #111417;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: #dddddd;
+    font-size: 10px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pages a{
+    margin-left: 20px;
 }
